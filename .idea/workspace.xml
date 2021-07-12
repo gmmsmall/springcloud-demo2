@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28e5bc55-200b-45b7-b5db-713f27994845" name="Default Changelist" comment="" />
+    <list default="true" id="28e5bc55-200b-45b7-b5db-713f27994845" name="Default Changelist" comment="新建项目">
+      <change afterPath="$PROJECT_DIR$/gmm-register/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmm-system/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmm-test/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vCkE5MYDLuwp4EcYLELpr3cVNt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -49,12 +57,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626073346042</updated>
-      <workItem from="1626073347205" duration="424000" />
+      <workItem from="1626073347205" duration="1145000" />
     </task>
+    <task id="LOCAL-00001" summary="新建项目">
+      <created>1626073834190</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626073834190</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="新建项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建项目" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

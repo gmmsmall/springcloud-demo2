@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gmm-test" />
+        <module name="gmm-system" />
+        <module name="gmm-register" />
         <module name="gmm-commons" />
         <module name="gmm-gateway" />
       </profile>
