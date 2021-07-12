@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28e5bc55-200b-45b7-b5db-713f27994845" name="Default Changelist" comment="新建子项目">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="28e5bc55-200b-45b7-b5db-713f27994845" name="Default Changelist" comment="pom修改">
+      <change beforePath="$PROJECT_DIR$/gmm-test/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gmm-test/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1vCkE5MYDLuwp4EcYLELpr3cVNt" />
@@ -54,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626073346042</updated>
-      <workItem from="1626073347205" duration="2325000" />
+      <workItem from="1626073347205" duration="2636000" />
     </task>
     <task id="LOCAL-00001" summary="新建项目">
       <created>1626073834190</created>
@@ -70,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626074538827</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="pom修改">
+      <created>1626077025745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626077025745</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,7 +91,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建项目" />
     <MESSAGE value="新建子项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建子项目" />
+    <MESSAGE value="pom修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="pom修改" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
